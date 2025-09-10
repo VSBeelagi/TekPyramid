@@ -7,6 +7,10 @@ public class New2_Test {
 		
 		System.out.println("-- new -2 ---");
 
+		
+		
+		
+		
 	}
 
 }
